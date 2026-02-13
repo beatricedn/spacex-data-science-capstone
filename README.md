@@ -5,12 +5,12 @@ This repository contains all notebooks and scripts developed for the IBM Data Sc
 ## Project Overview
 The objective of this project is to analyze SpaceX launch data and build classification models to predict landing success.
 
-## Repository Structure
-- Data collection using SpaceX REST API and web scraping
-- Data wrangling and preprocessing
-- Exploratory Data Analysis (EDA)
-- Interactive visual analytics with Folium and Plotly Dash
-- Predictive analysis using classification models
+## Project Structure
+1. Data collection (API & web scraping)
+2. Data wrangling
+3. Exploratory data analysis (SQL & visualization)
+4. Interactive visual analytics (Folium & Plotly Dash)
+5. Predictive analysis (classification models)
 
 ## Final Report
 The final presentation is available as a PDF in the `slides/` folder.
